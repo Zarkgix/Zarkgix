@@ -1,9 +1,5 @@
 
-Memory updated
-Here’s a customized GitHub README template for you:
 
-markdown
-Copy code
 Hi there 👋, My name is Zachariah Gitahi
 
 I am a passionate and motivated Data Scientist and Machine Learning Engineer with a deep interest in transforming raw data into actionable insights and building intelligent systems. With a strong foundation in statistics, programming, and machine learning, I thrive on using data-driven approaches to solve complex challenges and push the boundaries of innovation.
