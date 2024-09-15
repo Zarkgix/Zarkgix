@@ -8,8 +8,7 @@ I am a passionate and motivated Data Scientist and Machine Learning Engineer wit
 - 🤝 I’m looking to collaborate on ML, DL, and AI projects.
 - 📫 How to reach me: zacharystepla301@gmail.com
 
-### ![Profile Picture](https://your-image-url-here) <!-- Replace this with your image link -->
-*Upload an image to GitHub, or use an external image link.*
+
 
 ### Skills:
 <p align="left">
