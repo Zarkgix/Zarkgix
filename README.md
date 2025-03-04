@@ -30,13 +30,13 @@ I am a passionate and motivated Data Scientist and Machine Learning Engineer wit
 </p>
 
 ### Technical Areas:
-- **Programming Languages**: Python, SQL
+- **Programming Languages**: Python, SQL, R
 - **Data Analytics**: Numpy, Pandas, Matplotlib, PowerBI
-- **Machine Learning**: Supervised/Unsupervised Learning
+- **Machine Learning**: Supervised/Unsupervised Learning and Reinfornced Learning
 - **Deep Learning**: Neural Networks, CNNs, RNNs
 - **Natural Language Processing (NLP)**: Text Analysis, Sentiment Analysis
 - **Computer Vision**: Image Processing, Object Detection
-- **Generative AI**: Models like GPT, DALL-E
+- **Generative AI**: Models like GPT, DALL-E, Perplexity, Deepseek
 - **Web Development**: TypeScript, JavaScript, Next.js, MongoDB
 
 Let's connect and create impactful AI-driven solutions!
